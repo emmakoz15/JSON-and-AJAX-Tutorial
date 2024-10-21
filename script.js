@@ -38,4 +38,4 @@ function renderHTML(data) {
 
     animalContainer.insertAdjacentHTML('beforeend', htmlString)
 }
-
+// countinue @ 34:59
